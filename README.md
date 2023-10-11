@@ -34,9 +34,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Brunops5/Brunops5/output/snake.svg" alt="Snake animation" />
-
-###
