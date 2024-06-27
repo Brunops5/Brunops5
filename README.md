@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bruno Oliveira and I'm a Computer engineering student, from Minas Gerais.</h2>
+<h2 align="left">Hi 👋! My name is Bruno Oliveira and I'm a Computer engineering student.</h2>
 
 ###
 
